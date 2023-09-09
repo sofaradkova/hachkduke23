@@ -14,7 +14,7 @@
 			<p class="text-lg font-light opacity-70">Unlock financial freedom and achieve your dreams</p>
 		</div>
 		<div class="card-body place-self-center">
-			<div class="btn">tmp</div>
+			<a class="btn w-60 animate-pulse" href="/signup">Signup</a>
 		</div>
 	</div>
 </CenterBox>
