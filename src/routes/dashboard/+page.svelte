@@ -4,7 +4,7 @@
 </script>
 
 <div
-  class="bg-white min-h-screen p-4 text-gray-800 flex items-center justify-center gap-10"
+  class="bg-white min-h-screen p-4 text-gray-800 flex items-center justify-between gap-10 relative overflow-hidden"
 >
   <AccountCard />
   <DashboardCard />
