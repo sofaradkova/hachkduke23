@@ -14,9 +14,6 @@
 		password: {
 			placeholder: "Password",
 		},
-		confirmPassword: {
-			placeholder: "Confirm Password",
-		},
 	};
 	export let form;
 </script>
