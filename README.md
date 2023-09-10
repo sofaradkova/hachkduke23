@@ -40,15 +40,15 @@ Setting up the API:
 - At /Api directory run
 
 ```bash
-make up language=python
+make up language=node
 ```
 - To check logs, run
 ```bash
-make logs language=python
+make logs language=node
 ```
 - To close the container, run
 ```bash
-make stop language=python
+make stop language=node
 ```
 
 The quickstart backend will be running on http://localhost:8000 and the frontend will be running on http://localhost:3000
