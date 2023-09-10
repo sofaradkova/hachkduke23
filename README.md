@@ -14,7 +14,7 @@ Are you a student looking to take control of your finances? Look no further. Pen
 
 5. Support you along the way: PennyPro will answer any of your finance-related questions with the help of our trained AI chat assistant. 
 
-# Setup 🥱
+## Setup 🥱
 
 Setting up the frontend server: 
 
@@ -25,7 +25,7 @@ npm install
 npm run dev
 ```
 
-Setting up the database: 🫠
+### Setting up the database: 🫠
 
 Enter the backend directory and run (the database should be hosted at http://localhost:8090)
 
@@ -33,7 +33,7 @@ Enter the backend directory and run (the database should be hosted at http://loc
 go run main.go serve
 ```
 
-Setting up the API: 🫣
+### Setting up the API: 🫣
 
 - Set up the environment variables by cloning the provided env.example file to a file named ".env"
 - Enter a client ID and a secret key provided by Plaid at https://dashboard.plaid.com/team/keys
@@ -51,6 +51,6 @@ make logs language=node
 make stop language=node
 ```
 
-The quickstart backend will be running on http://localhost:8000 and the frontend will be running on http://localhost:3000
+***The quickstart backend will be running on http://localhost:8000 and the frontend will be running on http://localhost:3000***
 
-Setting up the backend: run tmp.pynb before running main.pynb
+***Setting up the backend: run tmp.pynb before running main.pynb***
