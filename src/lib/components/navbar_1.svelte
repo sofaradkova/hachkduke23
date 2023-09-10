@@ -1,5 +1,5 @@
 <main>
-	<div class="navbar bg-white">
+	<div class="navbar bg-white text-primary">
 		<div class="navbar-start">
 			<a class="btn btn-ghost normal-case text-xl hover:text-secondary" href="/"> PennyPro </a>
 		</div>
