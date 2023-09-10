@@ -1,4 +1,4 @@
-<div class="bg-white rounded-xl shadow-md p-4 text-gray-800">
+<div class="bg-white rounded-xl shadow-md p-4 text-gray-800 h-[420px]">
   <h2 class="text-lg font-semibold mb-2">Budget Goals</h2>
   <div class="flex flex-col gap-2">
     <div class="flex w-full gap-2 items-center">

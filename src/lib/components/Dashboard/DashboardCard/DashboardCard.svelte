@@ -13,7 +13,7 @@
       <BudgetCard />
       <BudgetCard />
     </div>
-    <div class="grid grid-cols-3 gap-4">
+    <div class="grid grid-cols-3 gap-4 h-[420px]">
       <div class="col-span-2">
         <StatsCard />
       </div>
