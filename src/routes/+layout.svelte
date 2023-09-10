@@ -3,7 +3,7 @@
 	import Navbar_1 from "../lib/components/navbar_1.svelte";
 </script>
 
-<body class="overflow-hidden font-sans font-medium text-primary">
+<body class="font-sans font-medium text-white">
 	<Navbar_1 />
 	<slot />
 </body>
