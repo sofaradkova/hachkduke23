@@ -3,7 +3,7 @@
     {
       "type": "depository",
       "subtype": "checking",
-      "starting_balance": 500,
+      "starting_balance": 1000,
       "meta": {
         "name": "John Smith Account",
         "official_name": "John Smith Checking Account"
@@ -16,7 +16,7 @@
         {
           "date_transacted":"2023-8-8",
           "date_posted":"2023-8-9",
-          "amount":200,
+          "amount":500,
           "description":"Duke University Teaching Assistant for Computer Science",
           "currency":"USD"
         },
@@ -24,28 +24,28 @@
           "date_transacted":"2023-8-15",
           "date_posted":"2023-8-16",
           "amount":-500,
-          "description":"Monthly Rent at Duke University",
+          "description":"Monthly rent at Duke University",
           "currency":"USD"
         },
         {
           "date_transacted": "2023-8-13",
           "date_posted": "2023-8-14",
           "amount": -100,
-          "description": "Paid dinner for 2 at Ginger + Soy",
+          "description": "Paid food for 2 at Ginger + Soy",
           "currency": "USD"
         },
         {
           "date_transacted": "2023-8-10",
           "date_posted": "2023-8-11",
-          "amount": -30,
-          "description": "Transporting using Uber Technologies",
+          "amount": -50,
+          "description": "transportation of car using Uber Technologies",
           "currency": "USD"
         },
         {
           "date_transacted": "2023-8-11",
           "date_posted": "2023-8-11",
           "amount": -150,
-          "description": "Traveling under American Airlines",
+          "description": "travel by plane under American Airlines",
           "currency": "USD"
         },
         {
@@ -80,7 +80,7 @@
       "starting_balance": 2000,
       "meta": {
         "name": "John Smith Account",
-        "official_name": "John Smith Checking Account"
+        "official_name": "John Smith Saving Account"
       },
       "numbers": {
         "account": "1111111111111111",
