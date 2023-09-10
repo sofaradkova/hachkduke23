@@ -6,7 +6,7 @@
 <svelte:head />
 
 <CenterBox>
-	<div class="card w-2/3 bg-base-100">
+	<div class="card w-2/3 bg-white">
 		<div class="card-title place-self-center">
 			<p class="text-5xl">Personal Finance, Simplified</p>
 		</div>
